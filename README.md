@@ -40,6 +40,11 @@ This project deploys a **three-tier cloud-native application** on **AWS EKS**:
 | 🌐 External Routing | AWS ALB Ingress Controller | ALB                            | Publishes services publicly             |
 
 ---
+Special thanks to [LondheShubham153](https://github.com/LondheShubham153) for helping improve this project!
+
+[![Watch the video](https://img.youtube.com/vi/YlUa3t9Aaic/maxresdefault.jpg)](https://www.youtube.com/watch?v=YlUa3t9Aaic)
+
+---
 
 # 🔁 Architecture Flow
 
